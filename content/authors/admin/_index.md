@@ -25,7 +25,7 @@ social:
     link: https://www.linkedin.com/
 organizations:
   - name: Stori
-    url: storicard.com
+    url: http://www.storicard.com
 education:
   courses:
     - course: BA in Political Science and International Relations
