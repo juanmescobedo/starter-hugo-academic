@@ -4,9 +4,10 @@ role: Data Analyst
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Analytics
+  - Data Engineering
+  - Education
+  - Sociology
 social:
   - icon: envelope
     icon_pack: fas
@@ -38,8 +39,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Juan Martin**Political scientist** with demonstrated experience in academia and NGOs. Skilled in text mining, statistical analysis, data management, and data visualization. Strong professional with a Bachelor's degree in Political Science and International Relations from **CIDE** and a technical degree in Information Technology from **IPN**.
+Political scientist with demonstrated experience in academia and NGOs. Skilled in text mining, statistical analysis, data management, and data visualization. Strong professional with a Bachelor's degree in Political Science and International Relations from CIDE and a technical degree in Information Technology from IPN.
 
-**I am interested in** applying data science to solve specific problems, whether public or business. I am constantly seeking challenges as I love to learn. Also, I know how to handle stress, so I am comfortable working under pressure. I always take care of rigor and attention to detail. Passionate about reading, sports, and technology, **I consider myself** a multidisciplinary and interesting profile.
+I am interested in applying data science to solve specific problems, whether public or business. I am constantly seeking challenges as I love to learn. Also, I know how to handle stress, so I am comfortable working under pressure. I always take care of rigor and attention to detail. Passionate about reading, sports, and technology, I consider myself a multidisciplinary and interesting profile.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
